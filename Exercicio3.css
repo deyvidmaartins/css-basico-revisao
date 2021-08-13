@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    background-color: red;
+    font-size: 70px;
+}
+li#verde {
+    color: green;
+}
+li#preto {
+    color: black;
+}
+li#amarelo {
+    color: yellow;
+}
+ul {
+    background-color: plum;
+}
+div#div3 {
+    background-color: orange;
+    font-size: 30px;
+}
